@@ -1,0 +1,63 @@
+# System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Windows Zone.Identifier files
+*:Zone.Identifier
+
+# Dropbox metadata files
+*:com.dropbox.attrs
+*.dropbox
+.dropbox/
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+ehthumbs.db
+Icon?
+
+# Logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+
+# Build outputs
+dist/
+build/
